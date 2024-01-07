@@ -1,4 +1,13 @@
-### Hi there 👋
+### Giovany Nechiza 👋
+
+I enjoy programming full-stack web applications and like learning something new every day.
+
+Why do I do what I do? 
+- 👨‍💻 Programming for vocation 
+- 📸 Photography for passion 
+- 🗺️ Travel for curiosity
+- 📝 Learning for knowledge
+
 
 <!--
 **aglopezn/aglopezn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
