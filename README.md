@@ -5,7 +5,7 @@ I enjoy programming full-stack web applications and like learning something new 
 Why do I do what I do? 
 - 👨‍💻 Programming for vocation 
 - 📸 Photography for passion 
-- 🗺️ Travel for curiosity
+- 🗺️ Travel for culture
 - 📝 Learning for knowledge
 
 
